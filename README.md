@@ -1,2 +1,2 @@
 # zebra_finch
-R script for zebra finch project
+R scripts for zebra finch project
